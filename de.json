@@ -68,7 +68,7 @@
                 "Du hast die richtigen Bewegungen drauf!",
                 "Du bist all das und eine riesige Tüte Chips",
                 "Du bist von innen noch schöner als von außen",
-                "Wenn Cartoon-Vögel echt wären, säßen jetzt ein paar von ihnen auf deinen Schultern und würden singen,
+                "Wenn Cartoon-Vögel echt wären, säßen jetzt ein paar von ihnen auf deinen Schultern und würden singen",
                 "Du machst einen Unterschied",
                 "Du bist wie Sonnenschein an einem regnerischen Tag",
                 "Du bringst das Beste in anderen Menschen hervor",
@@ -105,7 +105,7 @@
                 "Du könntest eine Zombie-Apokalypse überleben",
                 "Du bist lustiger als Luftpolsterfolie",
                 "Wenn du einen Fehler machst, bringst du ihn in Ordnung",
-                "Wer hat dich aufgezogen? Sie verdienen eine Medaille für gute Arbeit,
+                "Wer hat dich aufgezogen? Sie verdienen eine Medaille für die gute Arbeit",
                 "Du bist großartig darin, Dinge herauszufinden",
                 "Deine Stimme ist großartig",
                 "Die Menschen, die du liebst, können sich glücklich schätzen, dich in ihrem Leben zu haben",
@@ -116,10 +116,10 @@
                 "Dein Name passt wie angegossen zu dir",
                 "Du bist unwiderstehlich, wenn du errötest",
                 "Taten sagen mehr als Worte, und deine erzählen eine unglaubliche Geschichte",
-                "Irgendwie lässt du die Zeit anhalten und gleichzeitig fliegen,
+                "Irgendwie lässt du die Zeit anhalten und gleichzeitig fliegen",
                 "Wenn du dich für etwas entscheidest, steht dir nichts im Weg",
                 "Du scheinst wirklich zu wissen, wer du bist",
-                "Jedes Team wäre froh, dich in seinem Team zu haben,
+                "Jedes Team wäre froh, dich in seinem Team zu haben",
                 "Ich wette, in der Schule wurdest du zur 'wahrscheinlichsten Person, die weiterhin fantastisch sein wird' gewählt."
                 "Babys und kleine Tiere lieben dich wahrscheinlich",
                 "Du bist für jemanden der Grund zum Lächeln",
@@ -250,7 +250,7 @@
                 "Wow, du siehst heiß aus!",
                 "Du siehst gut aus!",
                 "Hallo, Sexy!",
-                "Du hast heute jemanden zum Lächeln gebracht, ich weiß es,
+                "Du hast heute jemanden zum Lächeln gebracht, ich weiß es",
                 "Du machst einen Unterschied.",
                 "Der Tag war besser wegen deiner Bemühungen.",
                 "Der Tag war besser, weil du dich bemüht hast",
@@ -260,7 +260,7 @@
         "....-01-01": [ "Frohes neues Jahr!" ],
         "....-10-31": [ "Was Süßes raus, sonst spukt's im Haus!" ],
         "....-02-14": [ "Frohen Valentinstag!" ],
-        day_sunny: [
+        "day_sunny": [
 		"Heute strahlt die Sonne, wie dein Lächeln :D",
 		"Genieß den schönen Tag ;)",
                 "Heute ist ein sonniger Tag",
@@ -274,10 +274,10 @@
                 "Es mag bewölkt sein, aber es ist trotzdem schön draußen!",
                 "Die Sonne versteckt sich gerade..."
         ],
-	snow: [
+	"snow": [
 		"Schneeballschlacht!!!"
 	],
-	rain: [
+	"rain": [
 		"Vergess den Regenschirm nicht!",
                 "Draußen ist es nass, fahr vorsichtig!",
                 "Es ist regnerisch draußen, aber du erhellst meinen Tag"
