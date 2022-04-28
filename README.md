@@ -30,7 +30,7 @@ Change it to:
     module: "compliments",
     position: "lower_third",
     config: {
-        remoteFile: "https://raw.githubusercontent.com/michadenheijer/MagicMirrorCompliments/main/nl.json"
+        remoteFile: "https://raw.githubusercontent.com/Michdo93/MagicMirrorCompliments/main/de.json"
     }
 },
 ```
