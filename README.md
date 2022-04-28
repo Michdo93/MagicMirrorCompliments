@@ -6,10 +6,7 @@ I wanted the MagicMirror compliments in my own language, so here are some transl
 ## How to add the compliments to your MagicMirror
 ### Step 1: Check for supported languages
 At the moment there are just four languages: 
-- English ```en.json```
 - German ```de.json```
-- Dutch ```nl.json```
-- Chuvash ```cv.json```
 
 ### Step 2: Change config
 Open your config:
