@@ -33,9 +33,5 @@ Change it to:
 ```
 Change ```nl.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
 
-## Credits
-Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
-German language by [fixing-it](https://github.com/fixing-it),
-Chuvash language by [mirontoli](https://github.com/mirontoli).
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
